@@ -44,6 +44,7 @@
 	- drop SPECIAL_CONSIDERATIONS
 	- change replace value <700 for APPLICATION_TYPE and <1800 for CLASSIFICATION
 	- add third hidden layer and change the number of neurons
+	
 ![alt text](https://github.com/Yunaka1269/Neural_Network_Charity_Analysis/blob/main/First_attempt.PNG "First")
 
 - Second attempt
@@ -52,6 +53,7 @@
 	- change activation function to all sigmoid
 	- add third hidden layer
 	- decrease the number of epochs
+	
 ![alt text](https://github.com/Yunaka1269/Neural_Network_Charity_Analysis/blob/main/Second_attempt.PNG "Second")
 
 - Third try
@@ -59,9 +61,11 @@
 	- change replace value <700 for APPLICATION_TYPE and <700 for CLASSIFICATION
 	- add the fourth hidden layer
 	- increase epochs number
+	
 ![alt text](https://github.com/Yunaka1269/Neural_Network_Charity_Analysis/blob/main/Third_attempt.PNG "Third")
 
 - Fourth try
 	- drop SPECIAL_CONSIDERATIONS, STATUS, INCOME_AMT, and ASK_AMT
 	- change replace value <700 for APPLICATION_TYPE and <1800 for CLASSIFICATION
+	
 ![alt text](https://github.com/Yunaka1269/Neural_Network_Charity_Analysis/blob/main/Fourth_attempt.PNG "Fourth")
